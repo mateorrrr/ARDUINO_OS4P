@@ -16,3 +16,5 @@
 * Install co2.c script onto arduino.
 * Read out serial output.
 * Read out sd card.
+* Put sd card in your laptop wth the usb adapter
+* Read out data using the co2_plot.py file

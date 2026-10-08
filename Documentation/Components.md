@@ -1,4 +1,4 @@
-The following list of includes all competent you are handed in for this project. You will only need to select the ones that were used to build the Arduino CO2 sensor: 
+The following list includes all competent you are handed in at the beginning this project. To build the Arduino CO2 sensor you will only need to use the one marked as yes. 
 
 | Component | Image | Specifications | Was it used? |
 |---|---|---|---|

@@ -72,6 +72,6 @@ ax.tick_params(colors="#52514e")
 ax.set_xlim(left=0)
 fig.tight_layout()
 
-fig.savefig("co2_plot.png", dpi=150)
-print("saved co2_plot.png")
+fig.savefig("CO2_plot.png", dpi=150)
+print("saved CO2_plot.png")
 plt.show()

@@ -8,16 +8,17 @@ Components of the setup include the following:
 
 | Component | Image |
 | --------- | ----- |
-| Breadboard |  |
-| Arduino UNO | |
-| CO2 sensor | |
-| SD card reader (with SD card included) |
+| Breadboard | [link (No malware pleases trust)](https://upload.wikimedia.org/wikipedia/commons/e/e8/Breadboard.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled) |
+| Arduino UNO | [link](https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled) |
+| CO2 sensor | [link](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.botnroll.com%2F21927-large_default%2Fwinsen-mh-z19c-co2-sensor-with-cable.jpg&f=1&nofb=1&ipt=10ed8bd70c819ad0ab7978335d395197fe17f269c700d80d55f9eb7a0ee74060&ipo=images) |
+| SD card reader (with SD card included) | [link](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.1Y9Ex3qN4S4y6_ZWluWbHwHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=7cfc39f92f947aa61bf41d738847c1998df4a66d627a05f34e86381c86d29f47&ipo=images) |
 
 > and some components are in the package but not used:
-> 
+>  
 > | Component | Image |
-> | P/T/RH sensor | |
-> | Powerbank | |
+> | --------- | ----- |
+> | P/T/RH sensor | [link](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Co4r%2Bqy5L._SL1500_.jpg&f=1&nofb=1&ipt=d261b961b2043d599b7c832e59057505fbe41bff190feb66e74d9109c02d82f5&ipo=images) |
+> | Powerbank | Identification picture trivial |
 
 ## Getting started 
 

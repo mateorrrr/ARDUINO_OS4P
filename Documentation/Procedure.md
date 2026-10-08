@@ -1,4 +1,4 @@
-# Le procedure
+# Procedure: How to build the CO2 sensor and taking data 
 
 ## Brief outline
 

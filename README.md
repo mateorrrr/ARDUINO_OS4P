@@ -53,8 +53,9 @@ We will make use of the grid coding of the breadboard, so make sure to orient it
 
 ## Performing the measurement
 
-* I guess you are now in a room with CO2 exhaling humanoids around you, I also guess that this room has some means of ventilation, rendering any CO2 buildup negligible. Making a very boring measurement scenario, essentially measuring noise. Yet this is what you will do, power the Arduino with your laptop for about 40 minutes while you do something useful with your life. 
-* After these 40 minutes you throw the SD card in the SD card reader of your laptop, or phone, or fax, whatever works for you, and copy the `DATA.csv` file into your python environment folder. 
+* I guess you are now in a room with CO2 exhaling humanoids around you. I also guess that this room has some means of ventilation, rendering any CO2 buildup negligible. This makes it a very boring measurement scenario, essentially measuring noise. Yet this is what you will do! Power the Arduino with your laptop for about 40 minutes (we did exactly 2570s ≈ 43 min) while you do something useful with your life.
+* Only right at the beginning and right at the end you will do something interesting and blow on the CO2 sensor. This corresponds to the 2 peak in the `CO2_plot.png`.
+* After that you throw the SD card in the SD card reader of your laptop, or phone, or fax, whatever works for you, and copy the `DATA.csv` file into your python environment folder. 
 
 ## Visualisation of the measurement
 

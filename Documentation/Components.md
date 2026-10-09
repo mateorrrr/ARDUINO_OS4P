@@ -1,6 +1,6 @@
 # **Components and Materials**
 
-The following list includes all competent you are handed in at the beginning this project. To build the Arduino CO2 sensor you will only need to use the one marked as yes. 
+The following list includes all the competent you are handed in at the beginning this project. To build the Arduino CO2 sensor you will only need the ones marked with a yes. 
 
 | Component | Image | Specifications and description | Was it used? |
 |---|---|---|---|

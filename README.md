@@ -20,6 +20,8 @@ Components of the setup include the following:
 > | P/T/RH sensor | [link](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Co4r%2Bqy5L._SL1500_.jpg&f=1&nofb=1&ipt=d261b961b2043d599b7c832e59057505fbe41bff190feb66e74d9109c02d82f5&ipo=images) |
 > | Powerbank | Identification picture trivial |
 
+To see an image and more detailed description of the components you can take a look at `Components.md` in the Documentation file!
+
 ## Getting started 
 
 * Install Arduino IDE on your system.

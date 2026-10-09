@@ -20,6 +20,8 @@ Components of the setup include the following:
 > | P/T/RH sensor | [link](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61Co4r%2Bqy5L._SL1500_.jpg&f=1&nofb=1&ipt=d261b961b2043d599b7c832e59057505fbe41bff190feb66e74d9109c02d82f5&ipo=images) |
 > | Powerbank | Identification picture trivial |
 
+To see an image and more detailed description of the components you can take a look at `Components.md` in the Documentation file!
+
 ## Getting started 
 
 * Install Arduino IDE on your system.
@@ -51,8 +53,9 @@ We will make use of the grid coding of the breadboard, so make sure to orient it
 
 ## Performing the measurement
 
-* I guess you are now in a room with CO2 exhaling humanoids around you, I also guess that this room has some means of ventilation, rendering any CO2 buildup negligible. Making a very boring measurement scenario, essentially measuring noise. Yet this is what you will do, power the Arduino with your laptop for about 40 minutes while you do something useful with your life. 
-* After these 40 minutes you throw the SD card in the SD card reader of your laptop, or phone, or fax, whatever works for you, and copy the `DATA.csv` file into your python environment folder. 
+* I guess you are now in a room with CO2 exhaling humanoids around you. I also guess that this room has some means of ventilation, rendering any CO2 buildup negligible. This makes it a very boring measurement scenario, essentially measuring noise. Yet this is what you will do! Power the Arduino with your laptop for about 40 minutes (we did exactly 2570s ≈ 43 min) while you do something useful with your life.
+* Only right at the beginning and right at the end you will do something interesting and blow on the CO2 sensor. This corresponds to the 2 peak in the `CO2_plot.png`.
+* After that you throw the SD card in the SD card reader of your laptop, or phone, or fax, whatever works for you, and copy the `DATA.csv` file into your python environment folder. 
 
 ## Visualisation of the measurement
 
